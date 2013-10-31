@@ -3,6 +3,8 @@ ConfigurationOfSeaside3
 
 Seaside 3, 3.1 build testing on Squeak, Pharo and GemStone
 
+Travis details here: https://travis-ci.org/pdebruic/ConfigurationOfSeaside3/builds
+
 
 
 #### Gemstone 3.1.0.4 result
