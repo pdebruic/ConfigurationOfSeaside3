@@ -15,5 +15,4 @@ Seaside 3, 3.1 build testing on Squeak, Pharo and GemStone
 [![Build Status](https://travis-ci.org/pdebruic/ConfigurationOfSeaside3.png?branch=pharo2.0)](https://travis-ci.org/pdebruic/ConfigurationOfSeaside3)
 
 #### Squeak 4.4 result
-
 [![Build Status](https://travis-ci.org/pdebruic/ConfigurationOfSeaside3.png?branch=squeak)](https://travis-ci.org/pdebruic/ConfigurationOfSeaside3)
